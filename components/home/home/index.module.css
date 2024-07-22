@@ -1,0 +1,11 @@
+.news_card_gradient {
+  background-image: linear-gradient(to bottom, rgb(113, 248, 127), transparent);
+}
+
+.news_card_gradient:hover {
+  background-image: linear-gradient(to right, rgb(113, 248, 127), transparent);
+}
+
+.weather_card_gradient {
+  background-image: conic-gradient(at top right, #374151, #111827, #000000);
+}
